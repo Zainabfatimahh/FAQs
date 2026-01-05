@@ -1,11 +1,3 @@
-Got it 👍
-Here is a clean GitHub README without any commands, simple and professional.
-
-You can directly paste this into README.md.
-
-
----
-
 📌 FAQ Accordion Widget (React)
 
 A simple and responsive FAQ Accordion component built using React.js.
