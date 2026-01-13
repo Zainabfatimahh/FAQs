@@ -1,5 +1,5 @@
 📌 FAQ Accordion Widget (React)
-
+Description:
 A simple and responsive FAQ Accordion component built using React.js.
 This project focuses on clean UI, smooth interactions, and reusable component structure.
 
